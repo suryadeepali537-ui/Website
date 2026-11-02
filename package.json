@@ -1,0 +1,20 @@
+{
+  "name": "shivay-ecom",
+  "version": "1.0.0",
+  "description": "Shivay E-com Solutions - Premier E-Commerce & Marketing Architect",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx http-server -p 3000",
+    "build": "echo 'Static site - no build needed'",
+    "lint": "echo 'No linter configured'"
+  },
+  "keywords": [
+    "ecommerce",
+    "marketing"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vercel/analytics": "^1.1.1"
+  }
+}
